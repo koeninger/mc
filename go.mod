@@ -241,7 +241,7 @@ require (
 	github.com/secure-io/sio-go v0.3.1 // indirect
 	github.com/securego/gosec/v2 v2.22.8 // indirect
 	github.com/segmentio/asm v1.2.0 // indirect
-	github.com/shoenig/go-m1cpu v0.1.6 // indirect
+	github.com/shoenig/go-m1cpu v0.2.2 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/sivchari/containedctx v1.0.3 // indirect
 	github.com/sonatard/noctx v0.4.0 // indirect
